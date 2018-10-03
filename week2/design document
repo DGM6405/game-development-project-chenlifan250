@@ -1,1 +1,35 @@
+1. Game Name(temporary) : Running MOBA
+
+2. Description of play experience: You will have a running competition with other players. However, this running is not the ones on Olympics. This one is more exciting, challengable, dangerous and even a little unfair. You may have to climb the mountain, run across the jungle and river, and survive from the attacks of other players.
+
+3. Goal: Your goal is to be the first one arriving at the destination, by all means. You could run in every legal or illegal way, such as using speed-up abilities, boost items, and even attacking other players.
+
+4. Basic elements: 
+	- Characters: there are some different characters that the player can select to act as in the running competition. Every character has a different background story and outline. Therefore, the basic properties and abilities of each character are unique. The characters will have advantages in one or two domains, but they are normal or bad at other domains. For example, the truck driver is strong and runs fast in the jungle, but he can't use boost items well.
+
+	- Match: match means the running competition, which is basically an entire game. Except for selecting characters, the game starts at beginning of the running match and ends when the match is over.
+
+	- Champion: the champion is the first one who arrives at the destination, which is the goal of all the players in the running competition. The champion is the absolute winner of the game.
+
+	- Run: running is the foundational activity in the game, since every player has to "run" to the destination. 
+
+	- Track: the players in the competition run on the parallel tracks. Every player runs forward in his own track so that he doesn't need to control the direction.
+
+	- Boost: boost can help players in many situations. The most common boost is speed-up, which can effectively push the player to the destination. There are different ways to get the boost, such as by collecting items or by the unique abilities of the character himself.
+
+	- Attack: attacking other players is actually legal in the game. With items or unique abilities, the player can slow down or blind opponents.
+
+	- Item: there are some items on the certain place on the map. They are not random but designed and predictedable. 
+
+5. Interface:
+The main body on screen is the map and every character runs on a unique track on the map. The camera will follow the character which the player acts. There are also several dashboards over the map. One dashboard is about the personal status, such as speed. One dashboard is about the collected items and unique abilities. One dashboard is overall status, which is about the current positions of all players in the whole match.
+
+6. Controls:
+	- Run: press key "a" and key "d" as fast as possible to run fast (key "a" means the left leg and key "d" means the right leg of the character). 
+
+	- Item and ability: click the bubbles to use items or unique abilities. Some items or abilities may need the player to click the second time to choose a target or direction.
+
+The suggested way of control is to use the left hand to press the keyboard and use the right hand to control the mouse. 
+
+7. Art Direction: the map is preferred as low-poly or catoon style, since it can reduce the interfere for players and save resources. The characters could be more realistic, because it can involve players better in the background of the characters.
 
