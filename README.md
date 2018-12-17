@@ -2,6 +2,7 @@
 *the name of the game has been changed to STAR RACE
 
 Website of STAR RACE: http://www.lifanchen.com/projects/starrace.html
+Download Link of STAR RACE https://drive.google.com/open?id=1SJBrjle2LAZC-ZqaIoRM3VfbBzqQ7Jkz
 
 Week1:
 Welcome!
